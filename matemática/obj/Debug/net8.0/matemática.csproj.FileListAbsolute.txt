@@ -1,0 +1,14 @@
+C:\Users\felipe.mmluiz\source\repos\matemática\bin\Debug\net8.0\matemática.exe
+C:\Users\felipe.mmluiz\source\repos\matemática\bin\Debug\net8.0\matemática.deps.json
+C:\Users\felipe.mmluiz\source\repos\matemática\bin\Debug\net8.0\matemática.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\matemática\bin\Debug\net8.0\matemática.dll
+C:\Users\felipe.mmluiz\source\repos\matemática\bin\Debug\net8.0\matemática.pdb
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.dll
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\refint\matemática.dll
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.pdb
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\matemática.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\matemática\obj\Debug\net8.0\ref\matemática.dll

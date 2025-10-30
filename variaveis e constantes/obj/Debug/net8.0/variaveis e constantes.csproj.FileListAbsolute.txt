@@ -1,0 +1,14 @@
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\bin\Debug\net8.0\variaveis e constantes.exe
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\bin\Debug\net8.0\variaveis e constantes.deps.json
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\bin\Debug\net8.0\variaveis e constantes.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\bin\Debug\net8.0\variaveis e constantes.dll
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\bin\Debug\net8.0\variaveis e constantes.pdb
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.dll
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\refint\variaveis e constantes.dll
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.pdb
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\variaveis e constantes.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\variaveis e constantes\obj\Debug\net8.0\ref\variaveis e constantes.dll
