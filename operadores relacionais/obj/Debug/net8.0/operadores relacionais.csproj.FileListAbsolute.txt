@@ -1,0 +1,15 @@
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\bin\Debug\net8.0\operadores relacionais.exe
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\bin\Debug\net8.0\operadores relacionais.deps.json
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\bin\Debug\net8.0\operadores relacionais.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\bin\Debug\net8.0\operadores relacionais.dll
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\bin\Debug\net8.0\operadores relacionais.pdb
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.sourcelink.json
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.dll
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\refint\operadores relacionais.dll
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.pdb
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\operadores relacionais.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\operadores relacionais\obj\Debug\net8.0\ref\operadores relacionais.dll
