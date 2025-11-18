@@ -1,0 +1,15 @@
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.sourcelink.json
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\bin\Debug\net8.0\maratonaexercícios02.exe
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\bin\Debug\net8.0\maratonaexercícios02.deps.json
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\bin\Debug\net8.0\maratonaexercícios02.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\bin\Debug\net8.0\maratonaexercícios02.dll
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\bin\Debug\net8.0\maratonaexercícios02.pdb
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.dll
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\refint\maratonaexercícios02.dll
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.pdb
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\maratonaexercícios02.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\maratonaexercícios02\obj\Debug\net8.0\ref\maratonaexercícios02.dll
