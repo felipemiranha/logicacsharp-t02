@@ -1,0 +1,15 @@
+C:\Users\felipe.mmluiz\source\repos\Maratona03\bin\Debug\net8.0\Maratona03.exe
+C:\Users\felipe.mmluiz\source\repos\Maratona03\bin\Debug\net8.0\Maratona03.deps.json
+C:\Users\felipe.mmluiz\source\repos\Maratona03\bin\Debug\net8.0\Maratona03.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\Maratona03\bin\Debug\net8.0\Maratona03.dll
+C:\Users\felipe.mmluiz\source\repos\Maratona03\bin\Debug\net8.0\Maratona03.pdb
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.sourcelink.json
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.dll
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\refint\Maratona03.dll
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.pdb
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\Maratona03.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\Maratona03\obj\Debug\net8.0\ref\Maratona03.dll
