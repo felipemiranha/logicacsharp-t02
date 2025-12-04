@@ -1,0 +1,15 @@
+C:\Users\felipe.mmluiz\source\repos\nTemNada\bin\Debug\net8.0\nTemNada.exe
+C:\Users\felipe.mmluiz\source\repos\nTemNada\bin\Debug\net8.0\nTemNada.deps.json
+C:\Users\felipe.mmluiz\source\repos\nTemNada\bin\Debug\net8.0\nTemNada.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\nTemNada\bin\Debug\net8.0\nTemNada.dll
+C:\Users\felipe.mmluiz\source\repos\nTemNada\bin\Debug\net8.0\nTemNada.pdb
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.sourcelink.json
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.dll
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\refint\nTemNada.dll
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.pdb
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\nTemNada.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\nTemNada\obj\Debug\net8.0\ref\nTemNada.dll

@@ -1,0 +1,15 @@
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\bin\Debug\net8.0\calssescomherancas.exe
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\bin\Debug\net8.0\calssescomherancas.deps.json
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\bin\Debug\net8.0\calssescomherancas.runtimeconfig.json
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\bin\Debug\net8.0\calssescomherancas.dll
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\bin\Debug\net8.0\calssescomherancas.pdb
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.AssemblyInfoInputs.cache
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.AssemblyInfo.cs
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.sourcelink.json
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.dll
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\refint\calssescomherancas.dll
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.pdb
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\calssescomherancas.genruntimeconfig.cache
+C:\Users\felipe.mmluiz\source\repos\calssescomherancas\obj\Debug\net8.0\ref\calssescomherancas.dll
